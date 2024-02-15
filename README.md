@@ -2,6 +2,10 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&animation=twinkling&height=200&section=header&text=Jansoon%20GitHub%20👋&fontSize=70" />
 </div>
 
+<h1>🧑🏻‍💻 Introduce :</h1>
+🖥 Back-End Developer
+🏫 Kwangwoon University, Software. (GPA 4.11 / 4.5, [Major 4.27 / 4.5])
+☁️ UMC 5th Crew
 
 <h1>💻 Tech Stack :</h1>
 <h4>📚 Platforms & Languages :</h3>
@@ -12,6 +16,7 @@
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=Android&logoColor=white" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySql&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
  </div>
  
 <h4>🛠 Develop Tools :</h3>
