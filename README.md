@@ -3,9 +3,9 @@
 </div>
 
 <h1>🧑🏻‍💻 Introduce :</h1>
-🖥 Back-End Developer
-🏫 Kwangwoon University, Software. (GPA 4.11 / 4.5, [Major 4.27 / 4.5])
-☁️ UMC 5th Crew
+🖥 Back-End Developer <br>
+🏫 Kwangwoon University, Software. (GPA 4.11 / 4.5, [Major 4.27 / 4.5]) <br>
+☁️ UMC 5th Crew <br>
 
 <h1>💻 Tech Stack :</h1>
 <h4>📚 Platforms & Languages :</h3>
