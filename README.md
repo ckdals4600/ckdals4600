@@ -6,6 +6,7 @@
 🖥 Back-End Developer <br>
 🏫 Kwangwoon University, Software. (GPA 4.11 / 4.5, [Major 4.27 / 4.5]) <br>
 ☁️ UMC 5th Crew <br>
+☁️ CNS Lab undergraduate research student <br>
 
 <h1>💻 Tech Stack :</h1>
 <h4>📚 Platforms & Languages :</h3>
